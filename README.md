@@ -19,3 +19,7 @@ It generate bill for every selling and generate reports for stock, sell, and cus
 
 # Screenshot
 
+![](1.PNG)
+![](2.PNG)
+![](3.PNG)
+![](4.PNG)
