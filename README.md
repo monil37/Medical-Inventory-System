@@ -1,5 +1,5 @@
 # Medical-Inventory-System
-Medical System to maintain Purchase Stock and Sell stock detail 
+Medical System to maintain Purchase Stock and Sell stock detail for retailer
 
 Purchase Stock Detail include:
 1)Add stock
@@ -16,3 +16,6 @@ SellStock include:
 5)Search Customer by c_id
 
 It generate bill for every selling and generate reports for stock, sell, and customer detail
+
+# Screenshot
+
